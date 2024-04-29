@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Huy Duan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuanTranHuy&theme=dark&show_icons=true)
+![Huy Duan's GitHub stats](https://github-readme-stats-two-self-78.vercel.app/api?username=DuanTranHuy&theme=dark&show_icons=true)
 <!--
 **DuanTranHuy/duantranhuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
